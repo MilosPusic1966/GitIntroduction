@@ -11,7 +11,7 @@ namespace GitIntroduction
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git 4/10");
-            Console.WriteLine("Ne volim Dragomira");
+            Console.WriteLine("Ne volim Igora");
         }
     }
 }
