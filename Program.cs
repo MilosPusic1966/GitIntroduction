@@ -12,6 +12,8 @@ namespace GitIntroduction
         {
             Console.WriteLine("Hello git 4/10");
             Console.WriteLine("Ne volim Igora");
+
+            Console.WriteLine(2 + 2);
         }
     }
 }
